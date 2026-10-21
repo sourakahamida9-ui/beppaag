@@ -39,7 +39,7 @@ Reservations, check-in/out, payments, housekeeping, and a public website, all in
 
 **Hotel Management System** is a full-featured, production-oriented platform currently live and used by **Cactus Hotel** ([lecactushotel.bj](https://lecactushotel.bj)).
 
-It covers both the **public-facing hotel website** for customers and a **secured back-office dashboard** for hotel staff, handling the entire operational lifecycle from room search to checkout.
+It covers both th_e **public-facing hotel website** for customers and a **secured back-office dashboard** for hotel staff, handling the entire operational lifecycle from room search to checkout.
 
 > ✅ Currently running in production. Not a demo project.
 
